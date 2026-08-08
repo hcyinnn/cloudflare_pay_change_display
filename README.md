@@ -1,2 +1,3 @@
 # cloudflare_pay_change_display
 cloudflare居然把信息写在网址里，想要什么自己改
+欢迎来玩：cloudflare-pay-change-display.pages.dev
